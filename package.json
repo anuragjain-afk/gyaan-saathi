@@ -1,0 +1,9 @@
+{
+  "name": "gyaan-saathi",
+  "version": "1.0.0",
+  "description": "Gyaan Saathi - AI Companion for Learning & Growth (Offline-First Rural Higher Education Platform)",
+  "scripts": {
+    "dev": "npm --prefix client run dev",
+    "build": "npm --prefix client run build"
+  }
+}
